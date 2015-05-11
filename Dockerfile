@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER "Dylan Lindgren" <dylan.lindgren@gmail.com>
+MAINTAINER "Tornike Razmadze" <torniker@gmail.com>
 
 WORKDIR /tmp
 
